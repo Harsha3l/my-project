@@ -103,7 +103,7 @@ const Header = () => {
             <DropdownMenu>
               <DropdownMenuTrigger asChild>
                 <Button variant="ghost" className="gap-1 text-foreground hover:bg-secondary">
-                  Templates <ChevronDown className="h-4 w-4" />
+                  Products<ChevronDown className="h-4 w-4" />
                 </Button>
               </DropdownMenuTrigger>
               <DropdownMenuContent className="w-48 bg-card border border-border shadow-xl z-50">

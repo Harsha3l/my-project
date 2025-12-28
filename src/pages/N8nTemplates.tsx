@@ -237,11 +237,11 @@ const N8nTemplates = () => {
                 n8n Templates
               </div>
               <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-4">
-                Build Faster with Pre-Built N8n<br />Workflow Templates
+                Build Faster with Pre-Designed n8n<br />Workflow Templates
               </h1>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-8">
-                Instantly automate your work with our n8n workflow templates. Stop wasting time building
-                from scratch. Find a template, configure it in minutes.
+                Speed up your work with ready-to-use n8n workflow templates. Stop building from zero. 
+                Select a template and customize it in minutes.
               </p>
               
               {/* Search Bar */}
