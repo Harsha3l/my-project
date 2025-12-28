@@ -186,7 +186,7 @@ const Header = () => {
               </div>
               <div className="border-b border-border pb-2 mb-2">
                 <p className="text-sm font-semibold text-muted-foreground px-3 py-1">
-                  Templates
+                  Products
                 </p>
                 {templateOptions.map((option) => (
                   <Link
